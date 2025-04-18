@@ -18,7 +18,6 @@ This sample is designed as part of a professional technical writing work sample 
 
 The following token request sample is based on the OAuth 2.0 Client Credentials Grant flow. This method is widely used to obtain access tokens for server-to-server communication, where user login is not required.
 
-'''
 POST /token
 Host: auth.iotnetwork.com
 Content-Type: application/x-www-form-urlencoded
@@ -26,7 +25,6 @@ Content-Type: application/x-www-form-urlencoded
 grant_type=client_credentials&
 client_id=YOUR_CLIENT_ID&
 client_secret=YOUR_CLIENT_SECRET
-'''
 
 **Frequently Asked Questions (FAQs)**
 

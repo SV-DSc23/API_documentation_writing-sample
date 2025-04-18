@@ -1,4 +1,20 @@
-# API_documentation_writing-sample
+# API documentation writing-sample
+
+## Introduction
+
+This repository contains a sample REST API documentation project focused on an IoT Device Management API in the Software Networking domain. It demonstrates how to design and document a secure, scalable API used to register, monitor, update, and decommission IoT devices across distributed edge networks.
+
+The documentation is structured to reflect real-world enterprise standards and includes:
+	•	A clear overview of API functionality
+	•	Authentication and token management details (OAuth 2.0)
+	•	Endpoint definitions with example requests and responses
+	•	Error handling with HTTP status codes
+	•	Code samples in cURL and Python
+	•	Usage guidance for developers and integration teams
+
+This sample is designed as part of a professional technical writing work sample and showcases how user-focused API documentation should be written for teams working in backend, DevOps, IoT, or cloud-based deployments.
+
+## Notes:
 
 The following token request sample is based on the OAuth 2.0 Client Credentials Grant flow. This method is widely used to obtain access tokens for server-to-server communication, where user login is not required.
 
